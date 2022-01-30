@@ -1,0 +1,29 @@
+{
+    "friends": [
+        {
+            "fname": "farhad",
+            "city": "ctg",
+            "id":1,
+            "salary": "30000"
+        },
+        {
+            "fname": "arfat",
+            "city": "ctg",
+            "id":2,
+            "salary": "20000"
+        },
+        {
+            "fname": "nuhash",
+            "city": "ctg",
+            "id":3,
+            "salary": "10000"
+        },
+        {
+            "fname": "joy",
+            "city": "ctg",
+            "id":4,
+            "salary": "30000"
+        }
+        
+      ]
+}
